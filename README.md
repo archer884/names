@@ -20,3 +20,5 @@ Weekes
 Lewing
 Hillers
 ```
+
+Prints male names, female names, and surnames. At the moment, we don't have that many male names. :(
