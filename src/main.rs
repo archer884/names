@@ -61,8 +61,14 @@ fn list_surnames(count: usize) {
 }
 
 fn list_random_names(source: &str, count: usize) {
-    let names: Vec<_> = source.lines().collect();
+    let names: Vec<_> = source.lines().filter(|s| is_name(s)).collect();
     for name in names.choose_multiple(&mut SquirrelRng::new(), count.max(1)) {
         println!("{name}");
     }
+}
+
+#[inline]
+fn is_name(s: &str) -> bool {
+    let s = s.trim();
+    !s.is_empty() && !s.starts_with('#')
 }
