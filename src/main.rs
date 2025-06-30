@@ -20,9 +20,15 @@ struct Args {
 
 #[derive(Debug, Parser)]
 enum Command {
-    Male { count: usize },
-    Female { count: usize },
-    Surname { count: usize },
+    Male(InnerCommand),
+    Female(InnerCommand),
+    Surname(InnerCommand),
+}
+
+#[derive(Debug, Parser)]
+struct InnerCommand {
+    #[arg(default_value_t = 1)]
+    count: usize,
 }
 
 fn main() {
@@ -34,9 +40,9 @@ fn main() {
 
 fn run(args: Args) -> io::Result<()> {
     match args.command {
-        Command::Male { count } => list_male_names(count),
-        Command::Female { count } => list_female_names(count),
-        Command::Surname { count } => list_surnames(count),
+        Command::Male(InnerCommand { count }) => list_male_names(count),
+        Command::Female(InnerCommand { count }) => list_female_names(count),
+        Command::Surname(InnerCommand { count }) => list_surnames(count),
     }
 
     Ok(())
