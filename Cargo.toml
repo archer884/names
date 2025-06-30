@@ -1,0 +1,17 @@
+[package]
+name = "names"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.5.40", features = ["derive", "wrap_help"] }
+rand = "0.9.1"
+squirrel-rng = "0.3.0"
+
+[profile.dev]
+debug = 0
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
