@@ -79,6 +79,7 @@ Cecil
 Cedar
 Charles
 Charlie
+Chris
 Christian (Kit)
 Christopher
 Ciaran
@@ -92,11 +93,13 @@ Colin
 Connor
 Conrad
 Constantine
+Corey
 Cosmin
 Crispin
 Cyrill
 Damian
 Daniel
+Danny
 Dante
 Darcy
 Darwin
@@ -140,6 +143,7 @@ Emmett
 Emre
 Emrys
 Eric
+Erik
 Ethan
 Etienne
 Evan
@@ -169,6 +173,7 @@ Gareth
 Garrett
 Gaston
 Gavin
+Geoffrey
 George
 Gerard
 Gideon
@@ -208,6 +213,7 @@ Isiah
 Ivan
 Jack
 Jacob
+Jacques
 Jaime
 Jake
 James
@@ -216,6 +222,7 @@ Jamie
 Jason
 Jasper
 Jayden
+Jeffrey
 Jelte
 Jeremy
 Jericho
@@ -237,6 +244,7 @@ Julius
 Justin
 Kai
 Kenneth
+Kip
 Kirke
 Kit (nickname for Christopher)
 Laszlo
@@ -361,6 +369,8 @@ Seamus
 Sean 
 Sebastian
 Seth
+Shamus
+Shane
 Shepard
 Shepherd
 Sheridan

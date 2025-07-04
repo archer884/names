@@ -402,6 +402,7 @@ Avis
 Avon
 Awbrey
 Axe
+Axelson
 Axford
 Axley
 Axon
@@ -3408,6 +3409,7 @@ Dickman
 Dicks
 Diddle
 Dier
+Dietz
 Diffey
 Digby
 Digges
@@ -4381,6 +4383,7 @@ Folsom
 Folson
 Folwell
 Fones
+Fontan
 Fooks
 Foot
 Foote
@@ -4883,6 +4886,7 @@ Glover
 Glovier
 Goacher
 Goard
+Goare
 Goates
 Goatley
 Gobble
@@ -4964,6 +4968,7 @@ Goodley
 Goodloe
 Goodlow
 Goodman
+Goodnature
 Goodner
 Goodness
 Goodnough
@@ -5738,6 +5743,8 @@ Heal
 Heald
 Healey
 Health
+Healy
+Heany
 Heap
 Heape
 Heaphy
@@ -6625,6 +6632,7 @@ Jackman
 Jacks
 Jackson
 Jacobson
+Jacoby
 Jacocks
 Jacoway
 Jacox
@@ -7094,6 +7102,7 @@ Knowlden
 Knowles
 Knowlton
 Knuckles
+Kristensen
 Kue
 Kurk
 Kye
@@ -8124,6 +8133,7 @@ Mayou
 Mays
 Mayse
 Maytum
+McGreevy
 Meacham
 Meachem
 Meachum
@@ -8541,12 +8551,14 @@ Munsell
 Munsey
 Munson
 Munt
+Muralles
 Murch
 Murden
 Murfin
 Murgatroyd
 Muriel
 Murley
+Murphy
 Murrell
 Murrey
 Murrill
@@ -9499,6 +9511,7 @@ Pomeroy
 Pomfret
 Pomroy
 Pon
+Ponder
 Ponds
 Ponsford
 Pont
@@ -9908,6 +9921,7 @@ Reeve
 Reeves
 Regester
 Register
+Reich
 Relph
 Remington
 Ren
@@ -10723,6 +10737,7 @@ Sherfield
 Sherick
 Sheriff
 Sherin
+Sherkenbach
 Sherling
 Sherlock
 Sherman
@@ -11200,9 +11215,6 @@ Squier
 Squiers
 Squire
 Squires
-St. George
-St. Ives
-St. John
 Stabler
 Stables
 Stabley
@@ -11346,6 +11358,7 @@ Steveson
 Stevison
 Steward
 Stewardson
+St. George
 Stickel
 Stickels
 Stickland
@@ -11377,6 +11390,8 @@ Stirk
 Stitcher
 Stiver
 Stiverson
+St. Ives
+St. John
 Stoakes
 Stobart
 Stobbe
@@ -11517,6 +11532,7 @@ Sugar
 Sugden
 Sugg
 Suggett
+Suh
 Suit
 Suite
 Sulfridge
